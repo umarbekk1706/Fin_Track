@@ -1,4 +1,4 @@
-import styles from './Benefits.module.css';
+import styles from "./benefits.module.css";
 
 function Benefits() {
   return (
