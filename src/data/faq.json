@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Is my financial data secure with FinTrack?",
+    "answer": "Yes, we use bank-level encryption and security protocols to protect your data. We never share your personal information with third parties without your consent."
+  },
+  {
+    "id": 2,
+    "question": "How much does FinTrack cost?",
+    "answer": "We offer a free version with basic features. Our premium plan starts at $9.99/month and includes advanced features like investment tracking, detailed reports, and priority support."
+  },
+  {
+    "id": 3,
+    "question": "Which banks and financial institutions do you support?",
+    "answer": "We support over 10,000 financial institutions across the US, Canada, and Europe. You can search for your bank on our connection page to verify compatibility."
+  },
+  {
+    "id": 4,
+    "question": "Can I use FinTrack outside the US?",
+    "answer": "Yes, FinTrack is available worldwide. While we primarily support US banks, we also have growing support for international banks in Canada, UK, Australia, and the EU."
+  }
+]

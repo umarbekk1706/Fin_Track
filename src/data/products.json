@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "fas fa-mobile-alt",
+    "title": "Mobile App",
+    "description": "Track your expenses on the go with our user-friendly iOS and Android apps."
+  },
+  {
+    "id": 2,
+    "icon": "fas fa-desktop",
+    "title": "Web Dashboard",
+    "description": "Manage your finances from any device with our powerful online dashboard."
+  },
+  {
+    "id": 3,
+    "icon": "fas fa-bell",
+    "title": "Smart Alerts",
+    "description": "Get instant notifications about your spending habits and savings goals."
+  },
+  {
+    "id": 4,
+    "icon": "fas fa-users",
+    "title": "Family Sharing",
+    "description": "Share accounts securely with family members to manage budgets together."
+  }
+]
