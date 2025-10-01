@@ -1,6 +1,6 @@
 import { Link } from "react-scroll";
 import { motion } from "framer-motion";
-import styles from "./Footer.module.css";
+import styles from "./footer.module.css";
 import logo from "../../../public/logo.png";
 
 const Footer = () => {
